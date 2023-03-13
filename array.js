@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-
-<body>
-    <h1>Welcome to Arrays in JavaScript</h1>
-    <script>
-        //CREATING AN ARRAY
+//CREATING AN ARRAY
         const cricketers = ['MSD', 'VK', 'RJ'];
         console.log(cricketers);
 
@@ -79,8 +66,3 @@
          var z = fruit.slice(1);// index 1 element gets removed that is the function of slice
          console.log(z);
          
-
-    </script>
-</body>
-
-</html>
